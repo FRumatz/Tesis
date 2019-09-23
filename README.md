@@ -10,6 +10,7 @@ Acá podrá encontrar el código completo:<br/>
 • 2° Descriptivo: Nube de palabras de tweets positivos y negativos.<br/>
 • 3° NLP: Limpieza y preprocesamiento de tweets.<br/>
 • 4° Modelo no supervisado: aplicación de k-medias para extraer temáticas.<br/>
-• 5° Modelo supervisado: aplicación de SVM lineal con transformación usando nucleos sigmoide y gaussiano.<br/><br/>
+• 5° Modelo supervisado: aplicación de SVM lineal con transformación usando nucleos sigmoide y RBF.<br/><br/>
+• 6° Errores de clasificación: revisión de los errores de clasificación de SVM lineal y RBF. 
 
 Por dudas puede escribir a francisca.rumatz@usach.cl
