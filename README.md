@@ -8,7 +8,7 @@ Universidad de Santiago de Chile <br/>
 Acá podrá encontrar el código completo:<br/>
 • 1° Extracción de tweet: código utilizado para la recopilación de opiniones.<br/>
 • 2° Descriptivo: Nube de palabras de tweets positivos y negativos.<br/>
-• 2° Descriptivo 2: Frecuencias de tweets positivos y negativos y distribuciones.<br/>
+• 3° Descriptivo 2: Frecuencias de tweets positivos y negativos y distribuciones.<br/>
 • 4° NLP: Limpieza y preprocesamiento de tweets.<br/>
 • 5° Modelo no supervisado: aplicación de k-medias para extraer temáticas.<br/>
 • 6° Modelo supervisado: aplicación de SVM lineal con transformación usando nucleos sigmoide y RBF.<br/>
